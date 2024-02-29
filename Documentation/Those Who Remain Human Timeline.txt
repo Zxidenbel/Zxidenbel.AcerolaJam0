@@ -1,0 +1,4 @@
+2/29 - Set up Unity Scenes for the menu and game. Start building the codebase and the first cards.
+3/1 - Continue building the codebase. At this point, all card classes and the position system should be functional.
+3/2 - Set up the music, text, and menu system. Begin creating portraits for the expected cards.
+3/3 - Set up the dialogue system.
